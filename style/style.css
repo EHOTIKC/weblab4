@@ -152,9 +152,8 @@
         .content .main-text{
             padding-left: 18vw;
             padding-top: 5vh;
-            font-size: calc(1.3vw + 1.3vh);;
-
-
+            font-size: calc(1.3vw + 1.3vh);
+            color: #ffffffc0;
         }
         .content .main-header{
             padding-top: 1vh;
